@@ -7,6 +7,7 @@ export default function Home() {
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
+        <script defer data-domain="webdemo.vercel.app" src="https://plausible.io/js/plausible.js"></script>
       </Head>
 
       <main className={styles.main}>
